@@ -1,0 +1,45 @@
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.externalNativeBuild
+.cxx
+
+# Diretórios e configurações do Android Studio
+.idea/
+local.properties
+*.iml
+
+# Builds
+/build/
+/app/build/
+
+# Logs e caches
+*.log
+*.hprof
+/captures/
+
+# Gradle
+.gradle/
+gradle-wrapper.jar
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações específicas do ambiente
+*.env
+
+# Firebase e Google Services
+/google-services/
+firebase/
+
+# Dependências Kotlin/Java
+*.class
+
+# Default ignored files
+/shelf/
+/workspace.xml

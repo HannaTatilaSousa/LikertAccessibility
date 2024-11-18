@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LikertAccessibility</string>
+
+    <string name="main_text_card_without_accessibility">Tela sem acessibilidade</string>
+    <string name="main_text_card_with_accessibility">Tela com acessibilidade</string>
+    <string name="title">Queremos sua opinião</string>
+    <string name="subtitle">Por favor, nos conte qual o seu nível de satisfação com o serviço realizado</string>
+    <string name="lickert_terrible">Péssimo</string>
+    <string name="lickert_bad">Ruim</string>
+    <string name="lickert_regular">Regular</string>
+    <string name="lickert_good">Bom</string>
+    <string name="lickert_excellent">Excelente</string>
+    <string name="message_success_snackbar">Agradecemos a sua opinião.</string>
+    <string name="message_error_snackbar">Escolha uma das opções de avaliação.</string>
+    <string name="text_button">Enviar opinião</string>
+</resources>
